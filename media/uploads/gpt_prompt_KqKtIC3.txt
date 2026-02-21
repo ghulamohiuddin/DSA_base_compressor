@@ -1,0 +1,1 @@
+give me important points ,concepts and technical aspects that i should clear while reading and understanding the following in django drf
